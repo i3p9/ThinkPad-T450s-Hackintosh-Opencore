@@ -1,0 +1,1 @@
+# ThinkPad-T450s-Hackintosh-Opencore
