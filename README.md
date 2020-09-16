@@ -1,3 +1,5 @@
+## This project is now redundant and thus archived. Please visit this repo for the updated version: https://github.com/i3p9/Hackintosh-Catalina-OpenCore-Lenovo-T450s-efi 
+
 # ThinkPad-T450s-Hackintosh-Opencore
 
 ![](https://i.imgur.com/dcGAwin.png)
